@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\PP2Labs\L1_1\L1_1\bin\Debug\L1_1.exe.config
+C:\Users\User\Documents\GitHub\PP2Labs\L1_1\L1_1\bin\Debug\L1_1.exe
+C:\Users\User\Documents\GitHub\PP2Labs\L1_1\L1_1\bin\Debug\L1_1.pdb
+C:\Users\User\Documents\GitHub\PP2Labs\L1_1\L1_1\obj\Debug\L1_1.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\PP2Labs\L1_1\L1_1\obj\Debug\L1_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\PP2Labs\L1_1\L1_1\obj\Debug\L1_1.exe
+C:\Users\User\Documents\GitHub\PP2Labs\L1_1\L1_1\obj\Debug\L1_1.pdb
